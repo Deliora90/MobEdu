@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MobEdu/static/css/main.25d9b5f2.chunk.css",
+    "main.js": "/MobEdu/static/js/main.7b763f53.chunk.js",
+    "main.js.map": "/MobEdu/static/js/main.7b763f53.chunk.js.map",
+    "runtime-main.js": "/MobEdu/static/js/runtime-main.0ec11ae3.js",
+    "runtime-main.js.map": "/MobEdu/static/js/runtime-main.0ec11ae3.js.map",
+    "static/js/2.8ce487fc.chunk.js": "/MobEdu/static/js/2.8ce487fc.chunk.js",
+    "static/js/2.8ce487fc.chunk.js.map": "/MobEdu/static/js/2.8ce487fc.chunk.js.map",
+    "index.html": "/MobEdu/index.html",
+    "static/css/main.25d9b5f2.chunk.css.map": "/MobEdu/static/css/main.25d9b5f2.chunk.css.map",
+    "static/js/2.8ce487fc.chunk.js.LICENSE.txt": "/MobEdu/static/js/2.8ce487fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ec11ae3.js",
+    "static/js/2.8ce487fc.chunk.js",
+    "static/css/main.25d9b5f2.chunk.css",
+    "static/js/main.7b763f53.chunk.js"
+  ]
+}
