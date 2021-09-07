@@ -24,7 +24,7 @@ const Main = () => {
   const closePopupHandle = () => {
     setPopupActive(false);
     setArrayOfSum((arr) => {
-      const list =  arr.concat(currentSum);
+      const list = arr.concat(currentSum);
       return list;
     });
   }
